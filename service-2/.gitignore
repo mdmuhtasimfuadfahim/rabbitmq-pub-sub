@@ -1,0 +1,9 @@
+# node modules
+node_modules
+
+# log & lock files
+rabbitmq.log
+package-lock.json
+
+# env file
+.env
